@@ -8,6 +8,7 @@ namespace OOP_3____
 {
     class test
     {
-        //Рыба Лох;
+        //asdfghjkl;'
+
     }
 }
